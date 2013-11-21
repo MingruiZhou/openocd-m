@@ -1,0 +1,9 @@
+这个是从CSDN上下载下来的，相传可以直接烧写Nand Flash
+解压后有README，照里面的操作，可以在Fedora 14环境下
+安装成功，并可以烧写led小灯测试程序，但是u-boot还没有
+看到成功。
+
+
+openocd-0.4.0安装成功后，显示是0.5.0
+可以配合arm-linux-gdb来调试开发板程序。
+详见百问网的 OpenJTAG教程
